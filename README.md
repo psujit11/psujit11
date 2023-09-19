@@ -2,7 +2,8 @@
 - 👀 I’m interested in webdev with Asp.NetCore.
 - 🌱 I’m currently learning webdev..
 
-- 📫 How to reach me 
+- 📫 How to reach me  www.linkedin.com/in/
+sujit-sharma-poudel-802738181
 
 <!---
 psujit11/psujit11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
