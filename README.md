@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @psujit11
-- 👀 I’m interested in webdev and networking
+- 👀 I’m interested in webdev with Asp.NetCore.
 - 🌱 I’m currently learning webdev..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 How to reach me 
 
 <!---
 psujit11/psujit11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
