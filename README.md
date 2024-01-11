@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psujit11
-- 👀 I’m interested in webdev with Asp.NetCore.
-- 🌱 I’m currently learning webdev..
+- 👀 I’m interested in  Asp.NetCore.
+- 🌱 I’m currently learning dotnet framework..
 
 - 📫 How to reach me  www.linkedin.com/in/
 sujit-sharma-poudel-802738181
